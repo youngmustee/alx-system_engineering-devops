@@ -1,3 +1,4 @@
+wc -l 2-bring_me_home
 #!/bin/bash
 pwd
 
