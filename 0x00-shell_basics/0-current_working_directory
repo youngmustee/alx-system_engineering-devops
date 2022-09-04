@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd -LP
+$(realpath “${BASH_SOURCE:-$0}”)
